@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Almeida</h1>
 <h3 align="center">Connect with me:</h3>
 <h1 align="center"> 
-    <a href="www.linkedin.com/in/leandrosalmeidadev">
+    <a href="https://www.linkedin.com/in/leandrosalmeidadev">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" align="center" title="My LinkedIn" alt="LinkedIn">
     </a>
 </h1>
