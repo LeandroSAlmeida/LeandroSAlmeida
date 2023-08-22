@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Leandro 👋
 <div> 
-  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 <br>
