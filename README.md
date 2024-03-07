@@ -1,13 +1,13 @@
 ## Olá, Eu sou o Leandro 👋
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <!--<h1 align="center">Melhores Tecnologias</h1>-->
+    <h1 align="center">Melhores Tecnologias</h1>
     <div align="center" valign="top"><br>
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
