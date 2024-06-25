@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="left">Languages ​​and Frameworks</h1>
+<h2 align="left">Languages ​​and Frameworks</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">Contact</h1>
+<h2 align="left">Contact</h2>
 
 ###
 
