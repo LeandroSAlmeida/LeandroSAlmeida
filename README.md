@@ -39,16 +39,15 @@ My focus is on designing resilient systems using **Clean Architecture** and **De
 
 <div align="center">
   <a href="https://github.com/LeandroSAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
 ### 📬 Contact
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/leandrosalmeidadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
