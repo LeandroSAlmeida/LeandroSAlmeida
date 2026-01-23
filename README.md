@@ -1,58 +1,58 @@
-<br clear="both">
+<div align="center">
+  <h1 align="center">Leandro S. Almeida</h1>
+  <h3 align="center">Software Engineer | Java Ecosystem & Cloud Architecture</h3>
+</div>
 
-<h1 align="left">Hi, I am Leandro. I am a back-end developer.</h1>
+---
 
-###
+### 👨‍💻 About Me
+
+Back-end Developer specializing in **Java (Spring Boot)**, **Microservices**, and **Cloud Infrastructure**. Currently pursuing a **Postgraduate degree in Software Architecture at FIAP**.
+
+My focus is on designing resilient systems using **Clean Architecture** and **DevOps** best practices, with a strong foundation in distributed systems.
+
+---
+
+### 🛠 Tech Stack
+
+**Core & Backend**
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+<br>
+
+**Infrastructure & DevOps**
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeandroSAlmeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/LeandroSAlmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=7&theme=omni"/>
+  </a>
 </div>
 
-###
+---
 
-<h2 align="left">Languages ​​and Frameworks</h2>
+### 📬 Contact
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernets logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  
-</div>
-
-###
-
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/leandrosalmeidadev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="contact.dev.leandro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:contact.dev.leandro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
-
-###
