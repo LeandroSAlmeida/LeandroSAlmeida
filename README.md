@@ -1,50 +1,47 @@
 <div align="center">
   <h1 align="center">Leandro S. Almeida</h1>
-  <h3 align="center">Backend Developer | Java & Node.js Ecosystem</h3>
+  <h3 align="center">Full Stack Developer | Java · Node.js · React · AWS</h3>
 </div>
 
 ---
 
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=LeandroSAlmeida&theme=tokyonight"/>
+</div>
+
 ### 👨‍💻 About Me
 
-Backend Developer specializing in **Java (Spring Boot)**, **Node.js (NestJS)**, and **Cloud Infrastructure**. Currently pursuing a **Postgraduate degree in Software Architecture at FIAP**.
+Full Stack Developer with solid experience in **Node.js (NestJS)** and **AWS**, focused on building scalable RESTful APIs and event-driven serverless architectures. Currently working as a **Freelance Developer**, delivering cloud-native solutions on AWS with ECS Fargate, CloudFront, and Docker.
 
-My focus is on designing resilient systems using **Clean Architecture** and **DevOps** best practices, with a strong foundation in distributed systems.
+Previously at **Compass UOL**, where I built high-throughput APIs and implemented Cloud-Native and Serverless solutions using Lambda, SQS/SNS, and DynamoDB.
+
+Currently pursuing a **Postgraduate degree in Software Architecture at FIAP**, with strong foundations in **Microservices**, **Clean Architecture**, **DDD**, and **Infrastructure as Code (Terraform)**.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,docker,kubernetes,terraform,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,ts,aws,docker,kubernetes,terraform,kafka,redis,postgres,mongodb" />
 </p>
 
 ---
 
 ### 🎓 Certifications
 
-<a href="https://www.credly.com/earner/earned/badge/e3040b56-d082-4dcb-95f6-21997dccb2c3">
-  <img height="100" src="https://images.credly.com/size/340x340/images/e3040b56-d082-4dcb-95f6-21997dccb2c3/image.png"/>
+<a href="https://www.credly.com/badges/e3040b56-d082-4dcb-95f6-21997dccb2c3/public_url">
+  <img height="100" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 </a>
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/LeandroSAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSAlmeida&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
 ### 📬 Contact
+
 <div align="left">
   <a href="https://www.linkedin.com/in/leandrosalmeidadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:contact.dev.leandro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
